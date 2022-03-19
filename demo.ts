@@ -12,5 +12,4 @@ class Teacher extends Person {
 }
 
 const teacher = new Teacher();
-teacher.name = "123";
 console.log(teacher.getName());
